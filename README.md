@@ -1,4 +1,4 @@
 # sanketbro-demo
 This is my second Git repository
 <br>
-Author - Sanket Hanchate
+Author - Sanket Hanchate(ms)
